@@ -4,7 +4,7 @@ public class PrimerosPrimos {
         int contador = 0;
         int numero = 2;
 
-        System.out.println("Los primeros 10 números primos son:");
+        System.out.println("Los primeros 10 numeros primos son:");
 
         while (contador < 10) {
             boolean esPrimo = true;
